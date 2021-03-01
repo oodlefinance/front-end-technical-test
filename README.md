@@ -8,6 +8,33 @@ Please follow the instructions below for no more than 2 hours. If you don't fini
 
 ## Instructions
 
-1. Fork this repo
-2. Do some epic challenge TODO
-3. We'll talk about it in your technical interview.
+### The project
+
+Here is an endpoint that returns a list of beers: https://api.punkapi.com/v2/beers.
+
+We want you to fetch data from that API and display it in an organized way using [React](https://reactjs.org/docs/getting-started.html).
+
+You can display the data in any way that makes sense to you: a list, a table, even a graph if that's your style! (Note to grad/junior devs: a graph is likely much more difficult and time-consuming than a list or a table.)
+
+### What do we care about?
+- your knowledge of React and CSS
+- your ability to follow the brief
+- your ability to fetch and handle data
+
+### More specifics
+- you may use any 3rd-party libraries you wish but you must write at least some custom styles to demonstrate your knowledge of CSS
+- don't worry about supporting IE11
+- if you make a list or table, it doesn't need to be sortable or filterable (but feel free to make it so if you like)
+- don't deploy your result. Just push it to a repository.
+
+### Want more of a challenge or to go the extra mile?
+Here's [the full documentation](https://punkapi.com/documentation/v2) for the punkapi. Go nuts 🥜.
+
+Some ideas for things you could add include: 
+- filtering by brewed_before and/or brewed_after dates
+- filtering by ABV (alcohol by volume)
+- searching by beer_name
+- adding a button to search for a random beer
+
+## Okay I did it. What now?
+Send us the link to your repo. We'll take a look at it and we'll discuss it during your technical interview.
