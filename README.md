@@ -4,7 +4,7 @@ Congratulations! If you're looking at this you probably have an interview with O
 
 ![Great job](https://media.giphy.com/media/xHMIDAy1qkzNS/giphy.gif)
 
-Please follow the instructions below for no more than 2 hours. If you don't finish to your satisfaction in that time, don't freak out. We want to see how you approach problems, and you will have a chance to talk about your work and what you struggled with, if anything.
+Please follow the instructions below for **no more than 2 hours**. If you don't finish to your satisfaction in that time, don't freak out. We want to see how you approach problems and what you get done in that time.
 
 ## Instructions
 
@@ -25,7 +25,7 @@ You can display the data in any way that makes sense to you: a list, a table, ev
 - you may use any 3rd-party libraries you wish but you must write at least some custom styles to demonstrate your knowledge of CSS
 - don't worry about supporting IE11
 - if you make a list or table, it doesn't need to be sortable or filterable (but feel free to make it so if you like)
-- don't deploy your result. Just push it to a repository.
+- you don't have to deploy your result but can if you wish. Either way we'll pull down the code and run it locally.
 
 ### Want more of a challenge or to go the extra mile?
 Here's [the full documentation](https://punkapi.com/documentation/v2) for the punkapi. Go nuts 🥜.
@@ -37,4 +37,4 @@ Some ideas for things you could add include:
 - adding a button to search for a random beer
 
 ## Okay I did it. What now?
-Send us the link to your repo. We'll take a look at it and we'll discuss it during your technical interview.
+Send us the link to your repo. We'll take a look at it, and if we like what we see we'll invite you to discuss it during a technical interview.
