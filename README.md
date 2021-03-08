@@ -4,7 +4,7 @@ Congratulations! If you're looking at this you probably have an interview with O
 
 ![Great job](https://media.giphy.com/media/xHMIDAy1qkzNS/giphy.gif)
 
-Please follow the instructions below for **no more than 2 hours**. If you don't finish to your satisfaction in that time, don't freak out. We want to see how you approach problems and what you get done in that time.
+You have **2 hours** to complete the challenge. If you run out of time before you complete the task to your own satisfaction, just *stay calm and push your code*. We are mostly interested in how you approach the problem and what your priorities were during the time.
 
 ## Instructions
 
@@ -16,15 +16,14 @@ We want you to fetch data from that API and display it in an organized way using
 
 You can display the data in any way that makes sense to you: a list, a table, even a graph if that's your style! (Note to grad/junior devs: a graph is likely much more difficult and time-consuming than a list or a table.)
 
-### What do we care about?
-- your knowledge of React and CSS
-- your ability to follow the brief
-- your ability to fetch and handle data
+### What are we looking for?
+- Good React knowledge
+- CSS Competency
+- Fetching and Handling Data Asynchronously
 
 ### More specifics
 - you may use any 3rd-party libraries you wish but you must write at least some custom styles to demonstrate your knowledge of CSS
 - don't worry about supporting IE11
-- if you make a list or table, it doesn't need to be sortable or filterable (but feel free to make it so if you like)
 - you don't have to deploy your result but can if you wish. Either way we'll pull down the code and run it locally.
 
 ### Want more of a challenge or to go the extra mile?
