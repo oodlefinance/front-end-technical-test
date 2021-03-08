@@ -4,7 +4,7 @@ Congratulations! If you're looking at this you probably have an interview with O
 
 ![Great job](https://media.giphy.com/media/xHMIDAy1qkzNS/giphy.gif)
 
-You have **2 hours** to complete the challenge. If you run out of time before you complete the task to your own satisfaction, just *stay calm and push your code*. We are mostly interested in how you approach the problem and what your priorities were during the time.
+You have **2 hours** to complete the challenge. If you run out of time before you complete the task to your own satisfaction, just *stay calm and push your code*. We are mostly interested in how you approach the problem and what your priorities are during the time.
 
 ## Instructions
 
