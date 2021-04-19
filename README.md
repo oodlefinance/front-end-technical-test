@@ -22,7 +22,7 @@ Note that the designs are for two separate pages: a beer listing page and a page
 - Fetching and Handling Data Asynchronously
 
 ### More specifics
-- clone this repo, it has some boilerplate to help you get started
+- fork this repo, it has some boilerplate to help you get started
 - you may use any 3rd-party libraries you wish but you must write at least some custom styles to demonstrate your knowledge of CSS
 - don't worry about supporting IE11
 - you don't have to deploy your result but can if you wish. Either way we'll pull down the code and run it locally.
