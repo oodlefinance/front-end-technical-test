@@ -12,7 +12,7 @@ You have **2 hours** to complete the challenge. If you run out of time before yo
 
 Here is an endpoint that returns a list of beers: https://api.punkapi.com/v2/beers.
 
-We want you to fetch data asynchronously from that API and display it as per the designs in the [designs directory](designs) using [React](https://reactjs.org/docs/getting-started.html).
+We want you to fetch data asynchronously from that API and display it as per the designs in the [designs directory](designs) using [React](https://reactjs.org/docs/getting-started.html) and [Next.js](https://nextjs.org/).
 
 Note that the designs are for two separate pages: a beer listing page and a page for a specific beer.
 
@@ -22,6 +22,7 @@ Note that the designs are for two separate pages: a beer listing page and a page
 - Fetching and Handling Data Asynchronously
 
 ### More specifics
+- fork this repo, it has some boilerplate to help you get started
 - you may use any 3rd-party libraries you wish but you must write at least some custom styles to demonstrate your knowledge of CSS
 - don't worry about supporting IE11
 - you don't have to deploy your result but can if you wish. Either way we'll pull down the code and run it locally.
