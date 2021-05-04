@@ -26,8 +26,12 @@ Note that the designs are for two separate pages: a beer listing page and a page
 - you may use any 3rd-party libraries you wish but you must write at least some custom styles to demonstrate your knowledge of CSS
 - don't worry about supporting IE11
 - you don't have to deploy your result but can if you wish. Either way we'll pull down the code and run it locally.
+- we'll take a look at your work on a variety of screen sizes
 
 ### Want more of a challenge or to go the extra mile?
+Want to show off more front-of-the-front-end magic? Feel free to go beyond the design! ✨
+
+You'd rather show off more back-of-the-front-end skills?
 Here's [the full documentation](https://punkapi.com/documentation/v2) for the punkapi. Go nuts 🥜.
 
 Some ideas for things you could add include: 
