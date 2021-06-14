@@ -1,10 +1,11 @@
-import styled from 'styled-components'
-
-const Title = styled.h1`
-  font-size: 50px;
-  color: ${({ theme }) => theme.colors.primary};
-`
+import styled from "styled-components";
+import BeerListing from "../src/components/BeerListing";
+import Footer from "../src/components/Footer";
 
 export default function Home() {
-  return <Title>My page</Title>
+  return (
+    <>
+      <BeerListing />
+    </>
+  );
 }
