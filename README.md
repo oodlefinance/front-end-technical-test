@@ -14,9 +14,12 @@ Here is an endpoint that returns a list of beers: https://api.punkapi.com/v2/bee
 
 We want you to fetch data asynchronously from that API and display it as per the designs in the [designs directory](designs) using [React](https://reactjs.org/docs/getting-started.html) and [Next.js](https://nextjs.org/).
 
+We want you to implement all the components (apart from the top-level page components) **as if they were going to be included in a reusable component library**. Prioritize reusability, accessibility, and extensibility.
+
 Note that the designs are for two separate pages: a beer listing page and a page for a specific beer.
 
 ### What are we looking for?
+- The ability to create highly reusable, accessible, and extensible components
 - Good React knowledge
 - CSS Competency
 - Fetching and Handling Data Asynchronously
