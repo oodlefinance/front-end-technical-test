@@ -12,7 +12,7 @@ You have **2 hours** to complete the challenge. If you run out of time before yo
 
 Here is an endpoint that returns a list of beers: https://api.punkapi.com/v2/beers.
 
-We want you to fetch data asynchronously from that API and display it as per the designs in the [designs directory](designs) using [React](https://reactjs.org/docs/getting-started.html) and [Next.js](https://nextjs.org/).
+We want you to fetch data asynchronously from that API and display it as per the designs in the [designs directory](designs) using [React](https://reactjs.org/docs/getting-started.html) and [Next.js](https://nextjs.org/) in [Typescript](https://www.typescriptlang.org/).
 
 Note that the designs are for two separate pages: a beer listing page and a page for a specific beer.
 
