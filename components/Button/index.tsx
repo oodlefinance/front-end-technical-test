@@ -1,4 +1,4 @@
-import Confetti from "js-confetti";
+import addConfetti from "./addConfetti";
 import { StyledButton, StyledButtonProps } from "./style";
 
 type Props = Partial<StyledButtonProps> & {
@@ -7,15 +7,6 @@ type Props = Partial<StyledButtonProps> & {
   children: React.ReactNode;
   id?: string;
 };
-
-const confettiInstance =
-  typeof window !== "undefined" ? new Confetti() : undefined;
-
-const addConfetti = () =>
-  confettiInstance?.addConfetti({
-    emojis: ["🌈", "⚡️", "💥", "✨", "🎉", "🌸", "🦄"],
-    emojiSize: 40,
-  });
 
 const Button = ({
   onClick,
