@@ -7,6 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "js-confetti": "^0.11.0",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",

@@ -11,14 +11,15 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
+    background-color: ${(p) => p.theme.colors.background.light};
   }
 `;
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
-      <GlobalStyle />
       <ThemeProvider theme={theme}>
+        <GlobalStyle />
         <Component {...pageProps} />
       </ThemeProvider>
     </>
