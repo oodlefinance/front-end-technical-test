@@ -36,6 +36,7 @@ const COLORS: Record<
 };
 
 export const StyledButton = styled.button<StyledButtonProps>`
+  transition: filter 300ms;
   cursor: pointer;
   border-radius: 5px;
   background-color: ${(p) => COLORS[p.variant][p.colorContext].backgroundColor};
@@ -45,4 +46,8 @@ export const StyledButton = styled.button<StyledButtonProps>`
   border-style: unset;
   font-size: 1rem;
   font-weight: ${(p) => p.colorContext === "dark" && "bold"};
+
+  :active {
+    filter: brightness(0.8);
+  }
 `;
